@@ -1,4 +1,4 @@
-# Free Knowledge Hub
+# Quick Free Finds
 
 A single place for verified, free, and legal resources across many topics — science, tech, life skills, finance, and more.  
 
